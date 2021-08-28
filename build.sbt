@@ -1,4 +1,4 @@
-name := "04-HelloSparkSQL"
+name := "spark-kafka-scala"
 organization := "com.kafka.samples"
 version := "0.1"
 scalaVersion := "2.12.10"
