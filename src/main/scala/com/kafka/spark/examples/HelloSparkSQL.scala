@@ -1,4 +1,4 @@
-package com.kafla.spark.examples
+package com.kafka.spark.examples
 
 import org.apache.log4j.Logger
 import org.apache.spark.sql.SparkSession

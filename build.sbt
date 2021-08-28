@@ -1,5 +1,5 @@
 name := "04-HelloSparkSQL"
-organization := "guru.learningjournal"
+organization := "com.kafka.samples"
 version := "0.1"
 scalaVersion := "2.12.10"
 
